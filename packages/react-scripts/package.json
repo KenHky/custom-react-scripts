@@ -2,7 +2,7 @@
   "name": "nohash-react-scripts",
   "version": "0.0.1",
   "description": "Configuration and scripts for create-react-app",
-  "repository": "kitze/custom-react-scripts",
+  "repository": "KenHky/nohash-react-scripts",
   "license": "MIT",
   "engines": {
     "node": ">=6"
