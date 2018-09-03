@@ -1,6 +1,6 @@
 {
-  "name": "custom-react-scripts",
-  "version": "0.2.3",
+  "name": "nohash-react-scripts",
+  "version": "0.0.1",
   "description": "Configuration and scripts for create-react-app",
   "repository": "kitze/custom-react-scripts",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/kitze/custom-react-scripts/issues"
+    "url": "https://github.com/KenHky/nohash-react-scripts/issues"
   },
   "files": [
     "bin",
